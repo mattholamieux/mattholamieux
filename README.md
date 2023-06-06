@@ -1,5 +1,3 @@
-![](https://github.com/mattholamieux/mattholamieux/blob/main/visualization.gif)
-
 ### Jello World 🦩
 
 - 🔭 I’m currently working as Sr Mgr of Education at [The Last Mile](https://thelastmile.org/)
